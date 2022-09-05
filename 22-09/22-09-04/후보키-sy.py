@@ -1,4 +1,5 @@
 '''
+https://school.programmers.co.kr/learn/courses/30/lessons/42890
 배운 것
 1. a.issubset(b) => a가 b의 subset인가?
 2. from itertools import combinations -> 조합 사용
